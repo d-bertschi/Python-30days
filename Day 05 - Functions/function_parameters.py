@@ -18,3 +18,5 @@ def average(*numbers):
     return sum(numbers) / len(numbers) if numbers else 0
 
 print(f"Average: {average(4, 7, 9, 2):.2f}")
+
+print(format_name("Diego", "Benaglio"))  # Positional arguments

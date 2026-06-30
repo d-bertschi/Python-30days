@@ -16,3 +16,11 @@
    - Takes an integer input N
    - Prints tables from 1x1 to NxN
    - Formats output in rows and columns
+
+
+   '''
+   Pseudo code >>> Plain language but with indentatio
+   see what happens at each state - this is important to create then with AI correct snippets and code
+   '''
+
+
