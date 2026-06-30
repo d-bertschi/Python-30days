@@ -8,4 +8,5 @@ while count < 5:
 while True:
     user_input = input("Enter 'quit' to exit: ")
     if user_input.lower() == 'quit':
+        print("Exiting the while loop.")
         break
