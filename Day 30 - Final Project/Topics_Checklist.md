@@ -1,0 +1,37 @@
+Basic questions - Concept > Purpose > Common use in DA/DS
+- What can I do with it in Data analysis and data science?
+- When to use it? for what?
+- Best practice on doing it? - Snippets
+- Does this concepts apply to other apps? Equivalent?
+
+With AI analyse code with this: 
+- Python basics
+- Data Types
+- Control flow
+- Loops
+- Functions
+- List and tuples
+- Dictionaries and sets
+- File handling
+- Error handling
+- Modulus
+- OOP Basics
+- Advanced OOP
+- Built in functions
+- List comprehension
+- Decorators
+- Regular expressions
+- Generators
+- API Interaction
+- Virtual environments
+- Package managementt
+- Scripting Project
+- Numpy basics
+- Pandas basics
+- Data Visualisation
+- Web Scrapping
+- Web Basics
+- Databases
+- Testing
+- Debugging
+- Final Project
